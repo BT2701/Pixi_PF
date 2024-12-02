@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "pixi.js": "^8.6.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}
